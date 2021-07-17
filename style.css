@@ -1,0 +1,20 @@
+canvas {
+    border: 3px solid black;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+body {
+    background-color: royalblue;
+    text-align: center;
+    margin-top: 5%;
+}
+
+button {
+   height: 48px;
+   width: 55px;
+   font-weight: bold;
+   align-items: center;
+   box-shadow: 4px 5px 5px 0px rgba(50, 50, 50, 0.75);
+   border: 2px solid black;
+}
